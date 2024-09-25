@@ -1,0 +1,808 @@
+home_team,score,away_team
+George Washington,2-4,Old Dominion
+VMI,4-2,Emory & Henry
+Delaware,3-0,Howard
+Boston U.,0-0,New Hampshire
+Villanova,2-2,Saint Peter's
+LIU,2-1,Stony Brook
+Le Moyne,3-2,Canisius
+Robert Morris,0-2,Bucknell
+Ga. Southern,0-0,Wofford
+Louisville,2-0,Jacksonville
+St. Thomas (MN),1-0,NIU
+Siena,0-0,Massachusetts
+Western Mich.,3-1,Vermont
+Boston College,2-2,Iona
+Temple,1-1,Army West Point
+FDU,3-2,Manhattan
+UMass Lowell,1-1,Lafayette
+Sacred Heart,4-2,Holy Cross
+NC State,3-2,High Point
+Eastern Ill.,3-0,UChicago
+St. Bonaventure,0-3,Saint Francis
+Milwaukee,0-0,Lindenwood
+Niagara,2-3,UAlbany
+Marquette,2-0,Drexel
+Elon,1-0,FGCU
+Bellarmine,1-2,Evansville
+Duquesne,3-1,Seton Hill
+Wake Forest,1-2,VCU
+UMBC,1-1,Maryland
+Coastal Carolina,2-4,Col. of Charleston
+Rutgers,3-1,Northeastern
+Clemson,3-0,Penn St.
+Dayton,5-1,Detroit Mercy
+FIU,0-1,Seton Hall
+UAB,0-1,North Carolina
+Creighton,0-0,Fla. Atlantic
+Michigan,1-0,Loyola Chicago
+UNC Greensboro,3-0,USC Upstate
+South Fla.,1-4,Seattle U
+Navy,0-2,George Mason
+Providence,2-0,Quinnipiac
+Butler,2-1,Southern Ind.
+Mount St. Mary's,0-1,Binghamton
+Georgia St.,0-0,Belmont
+Xavier,0-0,Northern Ky.
+Lehigh,0-0,La Salle
+West Virginia,4-2,Purdue Fort Wayne
+American,0-0,California Baptist
+Hofstra,0-0,Fordham
+Virginia,3-0,Rider
+Virginia Tech,4-0,North Florida
+South Carolina,7-1,Winthrop
+Colgate,0-1,Syracuse
+Oakland,1-2,Omaha
+Rhode Island,2-0,St. John's (NY)
+Marshall,3-0,Cal St. Fullerton
+Kentucky,3-2,Oral Roberts
+NJIT,1-1,Loyola Maryland
+California,1-2,Denver
+Saint Joseph's,1-2,Merrimack
+UConn,6-0,Stonehill
+Liberty,5-0,Mount Olive
+Sacramento St.,1-3,Utah Valley
+Houston Christian,2-3,Gardner-Webb
+Memphis,1-2,Lipscomb
+Bradley,1-0,Chicago St.
+Saint Mary's (CA),0-1,Kansas City
+UIW,0-2,IU Indy
+Northwestern,2-0,Green Bay
+Wisconsin,4-0,Marist
+Ohio St.,1-1,Cleveland St.
+Notre Dame,1-1,Akron
+Pittsburgh,2-0,Georgetown
+Furman,1-1,UNCW
+UCF,3-1,Mercer
+Central Ark.,3-0,Evangel
+Drake,3-0,Grand View
+ETSU,3-1,Longwood
+SIUE,1-1,Michigan St.
+UIC,3-4,DePaul
+SMU,1-0,Air Force
+Oregon St.,2-1,UC Irvine
+CSUN,0-0,James Madison
+Pacific,1-0,UC Davis
+Grand Canyon,3-0,Western Ill.
+Stanford,2-1,San Jose St.
+Gonzaga,4-1,Northwest (WA)
+UC San Diego,0-1,Santa Clara
+San Diego,2-2,Duke
+CSU Bakersfield,1-0,Utah Tech
+UC Santa Barbara,3-1,Missouri St.
+UCLA,2-0,LMU (CA)
+San Francisco,0-0,Cal Poly
+UNLV,2-0,Tulsa
+UNC Asheville,3-1,Stetson
+Monmouth,4-0,Fairfield
+Bowling Green,3-2,Wright St.
+Charlotte,3-0,Davidson
+Campbell,2-1,Radford
+Saint Louis,2-0,Indiana
+San Diego St.,5-2,UC Riverside
+Portland,2-1,Washington
+Presbyterian,9-0,Erskine
+San Francisco,2-2,Kansas City
+Stonehill,1-1,Navy
+Binghamton,1-0,Le Moyne
+George Washington,2-1,Saint Peter's
+Duquesne,3-1,Canisius
+Wisconsin,4-0,Drexel
+Michigan,2-1,Oakland
+Milwaukee,3-2,Bradley
+Lindenwood,1-3,UTRGV
+Dayton,0-3,Jacksonville
+South Carolina,2-2,North Florida
+Marquette,6-1,Marist
+NIU,4-2,Chicago St.
+UAlbany,0-1,LIU
+UC Davis,2-2,Utah Valley
+NC State,1-0,FGCU
+Mount St. Mary's,3-3,Robert Morris
+Cleveland St.,1-0,St. Bonaventure
+UCF,1-1,Seattle U
+Northwestern,2-1,DePaul
+California,1-0,Sacramento St.
+Penn St.,2-1,Army West Point
+Creighton,5-3,Drake
+American,1-4,Hofstra
+Butler,1-1,Western Ill.
+San Jose St.,1-1,CSU Bakersfield
+Winthrop,1-2,Furman
+New Hampshire,0-1,Western Mich.
+USC Upstate,2-0,ETSU
+UMass Lowell,2-0,Central Conn. St.
+Wake Forest,3-2,Central Ark.
+Belmont,3-0,Southern Ind.
+Memphis,0-3,Evansville
+Akron,0-2,Ohio St.
+Omaha,3-2,Fla. Atlantic
+LMU (CA),1-2,CSUN
+South Fla.,0-0,Mercer
+Stanford,0-1,Denver
+Xavier,4-1,Cal St. Fullerton
+Syracuse,3-0,Niagara
+Virginia,0-1,Colgate
+Temple,3-2,Villanova
+Campbell,2-0,N.C. Wesleyan
+Pittsburgh,2-0,Mercyhurst
+UNC Greensboro,1-0,Coastal Carolina
+SMU,1-1,Oral Roberts
+St. John's (NY),1-1,Stony Brook
+Northern Ky.,1-2,Bellarmine
+North Carolina,0-0,California Baptist
+Maryland,0-2,Georgetown
+Houston Christian,0-1,IU Indy
+UIC,4-2,Green Bay
+UIW,1-1,Gardner-Webb
+Saint Mary's (CA),2-0,Cal Poly
+Gonzaga,6-1,St. Thomas (MN)
+UC San Diego,2-3,Duke
+UCLA,0-0,James Madison
+VMI,4-0,Warren Wilson
+Eastern Ill.,1-5,Detroit Mercy
+Boston College,1-1,Providence
+Bryant,0-0,Massachusetts
+Stetson,1-0,FIU
+Lehigh,1-0,Rider
+West Virginia,4-0,Saint Francis
+Rutgers,1-4,Delaware
+Elon,5-0,Radford
+Longwood,2-2,Liberty
+FDU,4-3,Fairfield
+VCU,3-1,Old Dominion
+La Salle,0-3,NJIT
+Michigan St.,0-1,Bowling Green
+Rhode Island,1-0,Quinnipiac
+UMBC,3-2,Howard
+Missouri St.,3-0,Pacific
+San Diego,3-0,San Diego St.
+Washington,1-0,Oregon St.
+Northeastern,1-1,Boston U.
+Holy Cross,3-0,Merrimack
+Virginia Tech,2-0,UNC Asheville
+High Point,1-1,Davidson
+UAB,1-0,Georgia St.
+Sacred Heart,1-2,Fordham
+Binghamton,0-3,William & Mary
+Lafayette,1-0,Siena
+Tulsa,1-2,Louisville
+Green Bay,3-2,Southern Ind.
+St. Thomas (MN),1-1,DePaul
+Saint Peter's,0-3,UMass Lowell
+Jacksonville,0-1,Mercer
+Wright St.,4-1,Lindenwood
+Eastern Ill.,0-3,Purdue Fort Wayne
+ETSU,1-1,Presbyterian
+Dayton,3-1,UNLV
+Stony Brook,0-1,Rider
+UConn,2-1,NJIT
+Loyola Maryland,0-2,Iona
+Campbell,1-0,Old Dominion
+Omaha,1-0,San Francisco
+Central Conn. St.,0-2,Bryant
+Colgate,3-1,Stonehill
+South Fla.,2-0,Eckerd
+Temple,0-2,Monmouth
+USC Upstate,1-5,Col. of Charleston
+Virginia,5-0,Saint Joseph's
+Seton Hall,2-1,UAlbany
+Canisius,1-2,St. Bonaventure
+Hofstra,2-0,Providence
+Xavier,2-0,Marshall
+North Carolina,3-1,FIU
+Coastal Carolina,0-3,Elon
+Queens (NC),1-2,Wofford
+St. John's (NY),2-1,Manhattan
+North Florida,3-1,Winthrop
+Belmont,2-1,Northern Ky.
+Syracuse,2-2,Charlotte
+Indiana,2-2,Notre Dame
+Air Force,1-2,Army West Point
+Houston Christian,4-1,North American
+Bradley,4-0,Western Ill.
+Ohio St.,4-0,SIUE
+Creighton,1-1,Loyola Chicago
+Wisconsin,5-1,UIC
+Memphis,5-1,NIU
+Utah Valley,3-1,UC San Diego
+Oral Roberts,1-0,Cal Poly
+SMU,1-0,Saint Louis
+Kansas City,0-3,UC Santa Barbara
+Stanford,5-0,Cal St. Fullerton
+San Diego St.,2-1,Mercyhurst
+LMU (CA),1-0,California
+UC Irvine,1-1,Vermont
+Gonzaga,2-0,UIW
+San Diego,8-1,Lipscomb
+Washington,2-2,Denver
+UC Riverside,1-2,Utah Tech
+Michigan St.,1-0,Villanova
+Quinnipiac,2-0,Columbia
+Georgetown,1-0,UNC Greensboro
+Western Mich.,1-1,Akron
+Drexel,3-2,La Salle
+Yale,0-1,Marquette
+Ga. Southern,2-0,FGCU
+Rutgers,3-1,Princeton
+Michigan,1-1,Oregon St.
+Duke,2-3,Grand Canyon
+IU Indy,1-4,Bowling Green
+George Mason,4-2,Delaware
+UNCW,1-0,American
+West Virginia,4-0,George Washington
+Furman,2-1,North Greenville
+UMBC,4-0,Niagara
+South Carolina,2-2,Clemson
+Boston College,2-1,Dartmouth
+Navy,0-0,FDU
+Brown,2-1,Lehigh
+Cleveland St.,3-1,Chicago St.
+Penn St.,1-2,Pittsburgh
+Maryland,5-2,Detroit Mercy
+Northwestern,2-1,Drake
+UCLA,2-0,Portland
+Bucknell,2-0,Mount St. Mary's
+Butler,2-1,Oakland
+Bradley,1-0,Purdue Fort Wayne
+Harvard,1-1,Holy Cross
+Cornell,3-0,Marist
+New Hampshire,3-2,William & Mary
+UCF,1-1,Wake Forest
+James Madison,2-2,NC State
+Fairfield,2-3,Lafayette
+VCU,1-1,High Point
+UC Davis,2-1,Santa Clara
+California Baptist,4-1,CSU Bakersfield
+Northeastern,0-0,Siena
+Saint Francis,1-3,Wright St.
+Stonehill,0-1,Rhode Island
+Seton Hall,1-0,Manhattan
+Fordham,3-2,Colgate
+Omaha,1-0,Loyola Chicago
+NIU,1-2,Green Bay
+Liberty,1-2,Georgia St.
+Duke,14-1,Averett
+Xavier,0-1,Duquesne
+Merrimack,0-1,Boston College
+UAB,1-1,Northern Ky.
+Dayton,4-0,SIUE
+UNC Asheville,3-0,VMI
+Gardner-Webb,3-1,Barton
+UMass Lowell,1-1,Boston U.
+Western Ill.,2-0,Quincy
+Jacksonville,1-1,Winthrop
+Fla. Atlantic,3-1,Belmont
+Creighton,4-2,San Francisco
+Ohio St.,3-2,UNLV
+SMU,2-2,Denver
+Memphis,0-3,Central Ark.
+UConn,0-0,LIU
+UC Irvine,3-1,Mercyhurst
+Old Dominion,1-0,Radford
+Penn,1-0,Pittsburgh
+Monmouth,1-1,Iona
+North Florida,0-0,Mercer
+St. John's (NY),3-0,UAlbany
+Stanford,4-1,Saint Mary's (CA)
+Oral Roberts,2-1,UC Santa Barbara
+Indiana,2-0,Yale
+Evansville,3-1,Southern Ind.
+Tulsa,3-2,Cal Poly
+San Jose St.,2-1,Sacramento St.
+Cal St. Fullerton,6-1,Utah Tech
+Air Force,1-2,Washington
+CSUN,0-1,California
+Gonzaga,2-1,Houston Christian
+UC San Diego,2-2,Lipscomb
+UC Riverside,0-2,Pacific
+Michigan St.,1-2,Oregon St.
+Georgetown,0-0,FIU
+Marshall,6-1,Loyola Maryland
+Canisius,3-0,Central Conn. St.
+Rider,3-1,Saint Joseph's
+Michigan,2-0,Bowling Green
+DePaul,1-2,Drake
+Western Mich.,5-1,Villanova
+Detroit Mercy,1-2,Chicago St.
+Massachusetts,1-2,Providence
+UMBC,0-1,FDU
+Penn St.,4-0,St. Bonaventure
+Hofstra,3-2,Binghamton
+Davidson,0-0,Campbell
+Col. of Charleston,3-2,Stetson
+Army West Point,0-1,Sacred Heart
+Milwaukee,1-1,St. Thomas (MN)
+Lehigh,0-2,Rutgers
+Navy,3-0,Niagara
+Louisville,3-1,Bellarmine
+Syracuse,0-1,Le Moyne
+Elon,2-1,Grand Canyon
+Maryland,1-1,Virginia
+Akron,3-3,Cleveland St.
+Charlotte,2-0,Furman
+Queens (NC),3-1,Presbyterian
+American,0-0,Temple
+UNCW,1-1,South Fla.
+Kentucky,2-2,Virginia Tech
+North Carolina,6-0,ETSU
+Wisconsin,2-1,Marquette
+Saint Louis,1-1,IU Indy
+Missouri St.,2-3,Kansas City
+UIC,0-1,Northwestern
+San Diego St.,0-1,Vermont
+Portland,7-2,Multnomah
+Stony Brook,3-0,George Washington
+Coastal Carolina,2-1,USC Upstate
+George Mason,1-0,Bucknell
+Delaware,4-0,Saint Peter's
+Robert Morris,2-1,Saint Francis
+LIU,1-3,UMass Lowell
+Butler,1-1,Indiana
+William & Mary,2-0,Longwood
+Fairfield,2-3,Stonehill
+UTRGV,5-0,TAMU-San Antonio
+Evansville,1-0,Eastern Ill.
+San Diego,1-1,Washington
+Marquette,0-0,Purdue Fort Wayne
+Boston U.,1-1,Saint Mary's (CA)
+Virginia Tech,2-1,Presbyterian
+Dartmouth,4-1,FDU
+Western Ill.,4-2,St. Ambrose
+Army West Point,0-1,Marist
+Central Ark.,1-0,Oral Roberts
+Bryant,1-0,Merrimack
+Fordham,4-0,Santa Clara
+Fla. Atlantic,0-1,Utah Valley
+Duquesne,1-0,Niagara
+Xavier,2-2,Bradley
+Cleveland St.,0-2,Mercyhurst
+UAlbany,0-1,Siena
+Mercer,2-0,Memphis
+Rhode Island,1-1,Harvard
+Lipscomb,2-1,Georgia St.
+Loyola Chicago,4-2,Wright St.
+Portland,2-3,CSU Bakersfield
+CSUN,0-0,Pacific
+Gonzaga,2-0,Utah Tech
+UCLA,1-3,Cal St. Fullerton
+Cal Poly,1-0,San Jose St.
+North Florida,0-1,UAB
+Drake,1-0,Houston Christian
+Georgetown,2-2,Cornell
+Green Bay,1-0,Chicago St.
+Western Mich.,1-0,Northwestern
+Virginia,0-1,Duke
+Canisius,2-0,VMI
+Sacred Heart,5-0,Lehigh
+La Salle,1-0,Mount St. Mary's
+Binghamton,1-1,Colgate
+Winthrop,2-1,Queens (NC)
+North Carolina,2-2,St. John's (NY)
+Michigan St.,1-1,Air Force
+Michigan,2-0,Detroit Mercy
+Clemson,2-3,Stanford
+UCF,5-1,UC Irvine
+South Fla.,3-3,FGCU
+Penn,4-0,Temple
+Princeton,2-3,New Hampshire
+Loyola Maryland,0-0,Saint Joseph's
+Providence,1-0,Rutgers
+Seton Hall,2-0,Columbia
+Louisville,1-2,Notre Dame
+Akron,4-0,VCU
+Col. of Charleston,2-0,Jacksonville
+USC Upstate,2-5,Liberty
+Oakland,0-1,UIC
+Central Conn. St.,1-2,UConn
+Old Dominion,1-1,UMBC
+Stetson,1-2,Ga. Southern
+Davidson,2-2,UNC Greensboro
+Boston College,1-1,Syracuse
+Gardner-Webb,3-1,Wake Forest
+Marshall,2-0,High Point
+Kentucky,0-1,Wisconsin
+Maryland,2-1,Brown
+Lindenwood,3-2,Evansville
+NIU,2-6,Kansas City
+NC State,2-1,California
+Missouri St.,1-0,Tulsa
+Creighton,1-3,Denver
+Grand Canyon,2-0,Omaha
+LMU (CA),1-2,UC Riverside
+UC Santa Barbara,4-1,UNLV
+Seattle U,3-2,San Francisco
+San Diego St.,1-0,Sacramento St.
+Northeastern,0-1,Campbell
+ETSU,2-2,UNCW
+Le Moyne,2-2,Delaware
+Vermont,1-1,American
+George Washington,0-4,Rider
+Stonehill,2-1,Iona
+Longwood,2-1,Navy
+St. Thomas (MN),3-2,St. Cloud St.
+Elon,3-1,Drexel
+Bellarmine,0-0,UNC Asheville
+Villanova,1-1,Lafayette
+Quinnipiac,1-2,St. Bonaventure
+William & Mary,0-1,Hofstra
+UMass Lowell,2-1,Holy Cross
+Radford,0-1,Wofford
+Manhattan,2-1,LIU
+Monmouth,2-2,Stony Brook
+George Mason,4-3,Howard
+South Carolina,2-1,Belmont
+NJIT,4-0,Saint Peter's
+Bucknell,0-3,Saint Francis
+Bowling Green,3-2,Butler
+Yale,3-4,Massachusetts
+UTRGV,1-2,UIW
+SMU,1-3,Pittsburgh
+Mercer,2-0,Southern Ind.
+Northern Ky.,3-0,Western Ill.
+Dartmouth,2-2,Saint Mary's (CA)
+Western Mich.,5-1,Air Force
+Niagara,5-0,VMI
+DePaul,4-1,Wright St.
+Cal Poly,3-0,Gonzaga
+Oregon St.,1-2,UC Davis
+Furman,0-3,Virginia Tech
+Lindenwood,5-0,Westminster (MO)
+Georgia St.,1-3,Memphis
+Boston U.,1-2,Santa Clara
+Ohio St.,3-1,Xavier
+FGCU,0-2,Utah Valley
+SIUE,1-0,Saint Louis
+Lipscomb,2-3,Charlotte
+Portland,1-1,Utah Tech
+California Baptist,2-3,West Virginia
+UC San Diego,1-2,San Diego
+Stetson,1-1,UAB
+Bradley,1-2,Green Bay
+Robert Morris,0-1,Mercyhurst
+Saint Joseph's,2-1,Army West Point
+Ga. Southern,4-1,North Florida
+Northwestern,1-0,Marquette
+Penn St.,2-3,Cornell
+Rutgers,1-3,Seton Hall
+Oakland,3-0,Michigan St.
+South Fla.,2-1,UC Irvine
+Wake Forest,1-0,Radford
+Coastal Carolina,2-3,Presbyterian
+Penn,3-1,Fordham
+James Madison,1-0,Georgetown
+Akron,1-2,IU Indy
+UConn,2-1,Siena
+Marist,0-2,UAlbany
+Maryland,1-1,San Diego St.
+Providence,0-1,Rhode Island
+Kentucky,0-1,Louisville
+Drake,2-0,Kansas City
+Indiana,0-2,Dayton
+Omaha,2-2,Houston Christian
+Chicago St.,0-3,Milwaukee
+UCLA,0-0,Denver
+Pacific,0-1,UC Santa Barbara
+Grand Canyon,0-1,Creighton
+Washington,2-1,Seattle U
+Quinnipiac,5-1,Central Conn. St.
+Northeastern,4-1,Merrimack
+Queens (NC),1-3,Col. of Charleston
+Holy Cross,0-1,Stonehill
+NC State,7-0,Winthrop
+Drexel,2-0,Temple
+Lehigh,2-3,Vermont
+UNC Asheville,1-0,Wofford
+Bellarmine,1-1,Belmont
+Butler,4-1,Evansville
+Monmouth,1-0,La Salle
+UNCW,0-1,George Mason
+Clemson,6-0,Loyola Maryland
+South Carolina,4-0,USC Upstate
+Old Dominion,2-0,William & Mary
+Bryant,3-1,Iona
+Navy,0-1,George Washington
+Sacred Heart,1-0,NJIT
+UNC Greensboro,2-0,Longwood
+Delaware,2-1,Mount St. Mary's
+St. John's (NY),1-2,Princeton
+Brown,0-0,FDU
+Lafayette,0-1,Binghamton
+Marshall,2-0,Gardner-Webb
+Central Ark.,0-2,Missouri St.
+Tulsa,2-2,Oral Roberts
+Notre Dame,1-1,Duquesne
+Stanford,3-0,UC Riverside
+LMU (CA),0-0,West Virginia
+LIU,2-1,Fairfield
+Le Moyne,2-0,Saint Peter's
+Massachusetts,7-1,UMass Lowell
+Manhattan,1-0,Columbia
+Davidson,0-0,Furman
+FIU,4-3,UCF
+High Point,1-0,ETSU
+Purdue Fort Wayne,10-0,Ind.-East
+Campbell,1-1,VCU
+CSU Bakersfield,0-1,UNLV
+California Baptist,3-3,CSUN
+Presbyterian,3-0,VMI
+Sacramento St.,1-0,San Francisco
+UTRGV,1-1,Jacksonville
+Saint Mary's (CA),0-2,UC Davis
+Marquette,1-0,Edgewood
+UIC,2-0,Loyola Chicago
+San Jose St.,1-1,UC San Diego
+Seattle U,1-2,Gonzaga
+Santa Clara,1-1,Grand Canyon
+DePaul,2-3,Mercyhurst
+Memphis,1-1,SIUE
+Siena,0-0,Xavier
+NC State,1-1,Stetson
+Fla. Atlantic,2-0,North Florida
+Wake Forest,1-1,Virginia
+Ohio St.,1-0,Butler
+Michigan,2-1,Penn St.
+Rutgers,0-1,Indiana
+Michigan St.,1-0,Washington
+California,1-2,SMU
+Marist,2-1,Fordham
+Kansas City,3-3,Mercer
+Duke,1-2,North Carolina
+Dartmouth,1-2,UConn
+Bowling Green,2-1,NIU
+William & Mary,0-2,Penn
+UMBC,4-0,Saint Joseph's
+Georgia St.,3-2,USC Upstate
+UNC Greensboro,0-0,Charlotte
+Boston College,0-1,Clemson
+Pittsburgh,3-2,Louisville
+Syracuse,0-2,Virginia Tech
+Maryland,3-0,Wisconsin
+Northwestern,0-1,UCLA
+UIW,4-0,Our Lady of the Lake
+Utah Tech,1-2,Lindenwood
+Utah Valley,1-1,Cal Poly
+UC Irvine,0-1,San Diego
+Portland,0-2,Saint Louis
+Cal St. Fullerton,2-2,LMU (CA)
+UC Santa Barbara,0-0,New Hampshire
+Hofstra,3-0,UNCW
+Bucknell,2-1,Navy
+Boston U.,3-2,Army West Point
+Massachusetts,1-0,Brown
+Stonehill,1-2,St. Thomas (MN)
+Akron,0-1,Temple
+Stony Brook,2-4,Col. of Charleston
+Iona,1-2,Binghamton
+Drexel,1-0,Northeastern
+Georgetown,2-2,LIU
+Wofford,1-0,Winthrop
+American,2-0,Loyola Maryland
+Green Bay,5-1,Detroit Mercy
+Davidson,0-3,UNC Asheville
+Delaware,3-4,Elon
+Campbell,2-2,Monmouth
+Quinnipiac,0-0,La Salle
+Robert Morris,0-0,Northern Ky.
+Canisius,3-3,Saint Francis
+Wright St.,2-0,IU Indy
+Colgate,2-1,Lafayette
+Purdue Fort Wayne,2-0,Milwaukee
+VMI,2-1,Howard
+Vermont,5-0,Fairfield
+Holy Cross,2-1,Lehigh
+Central Conn. St.,1-1,Rhode Island
+UAlbany,2-2,Cornell
+Niagara,4-2,St. Bonaventure
+FDU,2-2,Villanova
+Columbia,0-1,Sacred Heart
+Oakland,2-1,Cleveland St.
+Seton Hall,3-2,Harvard
+Notre Dame,0-1,Stanford
+Merrimack,1-2,UMass Lowell
+Mount St. Mary's,1-1,Longwood
+James Madison,2-0,Liberty
+Rider,2-1,NJIT
+Coastal Carolina,0-1,Gardner-Webb
+Creighton,3-0,Tulsa
+Marshall,1-1,St. John's (NY)
+Bryant,1-2,Providence
+Lipscomb,2-2,Kentucky
+Evansville,1-2,Drake
+Oral Roberts,2-2,Houston Christian
+Southern Ind.,0-8,Bellarmine
+Denver,4-1,Yale
+UC Santa Barbara,2-2,Westmont
+High Point,3-0,FGCU
+Belmont,1-1,Western Mich.
+Oregon St.,4-1,San Diego St.
+UCF,0-0,South Fla.
+Old Dominion,1-0,George Mason
+Ga. Southern,2-2,UAB
+South Carolina,2-0,ETSU
+UC Davis,2-1,San Francisco
+Central Ark.,1-3,FIU
+Saint Mary's (CA),2-4,Sacramento St.
+Missouri St.,1-0,Bradley
+UIC,2-0,Marquette
+Gonzaga,2-3,Western Ill.
+UC San Diego,3-0,Air Force
+UNLV,1-0,CSUN
+Grand Canyon,1-1,Cal St. Fullerton
+Santa Clara,2-1,San Jose St.
+NIU,1-0,Mercyhurst
+California,5-0,Dominican (CA)
+Holy Cross,2-2,Clemson
+Michigan,1-1,Washington
+Fordham,2-2,Manhattan
+VCU,2-0,Penn
+Utah Valley,3-1,Lindenwood
+SMU,2-0,UIW
+Wisconsin,4-1,UCLA
+Utah Tech,1-1,Cal Poly
+California Baptist,0-2,San Diego
+Green Bay,2-1,Wis.-Parkside
+Iona,4-1,George Washington
+Southern Ind.,0-1,Purdue Fort Wayne
+LIU,1-1,Monmouth
+Saint Peter's,1-3,Binghamton
+Robert Morris,3-0,Duquesne
+Oakland,2-1,Loyola Chicago
+Boston College,3-1,Siena
+Saint Joseph's,0-1,Bryant
+Northeastern,0-0,Harvard
+Penn St.,0-5,Ohio St.
+NC State,4-1,UNCW
+Col. of Charleston,2-4,Furman
+La Salle,1-3,Rider
+Yale,1-1,Rutgers
+Davidson,2-1,Mercer
+North Florida,3-2,USC Upstate
+Wake Forest,1-1,Elon
+Hofstra,1-0,New Hampshire
+American,4-3,UMBC
+Charlotte,1-0,Campbell
+Mount St. Mary's,1-2,James Madison
+West Virginia,2-2,UNC Greensboro
+Northern Ky.,1-1,Bowling Green
+Wofford,0-2,Georgia St.
+Lafayette,2-1,UAlbany
+Radford,1-2,Queens (NC)
+FDU,0-2,Drexel
+Dartmouth,0-5,Massachusetts
+Brown,5-1,Boston U.
+Syracuse,5-1,Canisius
+Cornell,3-0,Bucknell
+Wright St.,2-2,Eastern Ill.
+Cleveland St.,0-4,Pittsburgh
+Princeton,3-1,Colgate
+Indiana,1-1,Evansville
+Omaha,1-1,Drake
+Saint Louis,2-2,Lipscomb
+St. Bonaventure,1-1,Le Moyne
+Dayton,1-1,Western Mich.
+NJIT,4-0,Central Conn. St.
+Columbia,1-3,Fairfield
+Houston Christian,1-0,UTRGV
+SIUE,2-0,Bradley
+Cal St. Fullerton,1-1,Gonzaga
+Stanford,1-0,UC Davis
+Utah Valley,1-4,UC Santa Barbara
+Denver,0-0,Portland
+UNLV,2-3,Kansas City
+Oregon St.,2-2,Seattle U
+San Diego,1-0,Grand Canyon
+Santa Clara,1-2,Sacramento St.
+DePaul,2-3,UConn
+Villanova,2-3,Marquette
+Western Ill.,4-0,NIU
+Notre Dame,6-1,Chicago St.
+Penn St.,2-1,Michigan St.
+Indiana,0-1,Maryland
+Creighton,0-1,Georgetown
+Xavier,1-0,St. John's (NY)
+South Fla.,1-0,FIU
+Louisville,1-1,Syracuse
+Providence,1-0,Seton Hall
+North Carolina,2-0,NC State
+South Carolina,1-2,Marshall
+Pittsburgh,2-0,Boston College
+Akron,4-3,Butler
+VCU,2-0,Rhode Island
+High Point,2-1,UNC Asheville
+Kentucky,0-0,Ga. Southern
+Clemson,1-0,Wake Forest
+SMU,2-0,Virginia Tech
+Tulsa,1-2,Memphis
+Air Force,0-2,UC Riverside
+San Jose St.,0-0,Saint Mary's (CA)
+LMU (CA),1-0,California Baptist
+Washington,2-0,Northwestern
+Elon,2-1,Stony Brook
+Massachusetts,1-2,George Mason
+Northeastern,0-2,William & Mary
+Binghamton,2-1,Central Conn. St.
+Northern Ky.,1-1,Oakland
+George Washington,0-1,Duquesne
+Saint Joseph's,0-2,Davidson
+Purdue Fort Wayne,2-0,Green Bay
+Col. of Charleston,1-0,Delaware
+Lafayette,1-2,Navy
+Rider,2-0,Mercyhurst
+Milwaukee,3-3,Wright St.
+UNCW,2-1,Drexel
+Saint Peter's,0-0,VMI
+Howard,2-2,UC San Diego
+Loyola Maryland,2-2,Boston U.
+Le Moyne,1-1,Niagara
+IU Indy,2-3,Robert Morris
+Queens (NC),0-0,Lipscomb
+Bucknell,0-0,Holy Cross
+Siena,3-0,NJIT
+Colgate,1-1,American
+Loyola Chicago,2-2,Dayton
+Penn,1-0,Manhattan
+Yale,4-1,Sacred Heart
+Dartmouth,2-1,Bryant
+Vermont,5-0,Harvard
+UCLA,3-3,Michigan
+FGCU,1-0,Jacksonville
+Bellarmine,0-1,Central Ark.
+California,1-1,Virginia
+Monmouth,2-1,Hofstra
+Army West Point,2-3,Lehigh
+Georgia St.,0-1,Coastal Carolina
+La Salle,0-0,Saint Louis
+Old Dominion,0-1,West Virginia
+Stetson,2-1,North Florida
+USC Upstate,0-2,Winthrop
+Temple,0-1,Charlotte
+Cleveland St.,2-2,Detroit Mercy
+Columbia,0-1,FDU
+Brown,5-3,Stonehill
+Cornell,1-0,UMBC
+Gardner-Webb,2-1,Radford
+Marist,3-2,LIU
+James Madison,2-0,UCF
+UAB,3-2,Fla. Atlantic
+UIC,1-3,Missouri St.
+Bradley,1-2,Bowling Green
+Oral Roberts,6-0,UTRGV
+Gonzaga,1-1,CSU Bakersfield
+UC Irvine,4-2,Utah Tech
+San Diego St.,3-3,UC Davis
+St. Bonaventure,0-0,Fordham
+SIUE,0-1,Omaha
+Presbyterian,1-3,Longwood
+Drake,4-0,Belmont
+St. Thomas (MN),1-2,Lindenwood
+Western Mich.,2-1,Evansville
+Ohio St.,3-0,Rutgers
+CSUN,2-1,Santa Clara
+Sacramento St.,1-1,Pacific
+San Diego,0-2,Cal St. Fullerton
+Denver,2-1,Seattle U
+Stanford,2-2,Duke
+UC Santa Barbara,3-0,Portland
+San Francisco,4-0,San Jose St.
+Grand Canyon,0-1,LMU (CA)
